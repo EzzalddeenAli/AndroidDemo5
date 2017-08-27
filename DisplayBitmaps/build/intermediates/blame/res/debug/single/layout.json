@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/DisplayBitmaps/build/intermediates/res/merged/debug/layout/image_detail_fragment.xml",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/DisplayBitmaps/src/main/res/layout/image_detail_fragment.xml"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/DisplayBitmaps/build/intermediates/res/merged/debug/layout/image_grid_fragment.xml",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/DisplayBitmaps/src/main/res/layout/image_grid_fragment.xml"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/DisplayBitmaps/build/intermediates/res/merged/debug/layout/image_detail_pager.xml",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/DisplayBitmaps/src/main/res/layout/image_detail_pager.xml"
+    }
+]

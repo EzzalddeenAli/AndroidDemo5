@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/androidPullToRefresh/build/intermediates/res/merged/androidTest/debug/drawable/indicator_bg_top.xml",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/androidPullToRefresh/build/intermediates/bundles/debug/res/drawable/indicator_bg_top.xml"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/androidPullToRefresh/build/intermediates/res/merged/androidTest/debug/drawable/indicator_bg_bottom.xml",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/androidPullToRefresh/build/intermediates/bundles/debug/res/drawable/indicator_bg_bottom.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/TranstionAnim/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/TranstionAnim/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/Application/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/Application/src/main/res/menu/main.xml"
+    }
+]

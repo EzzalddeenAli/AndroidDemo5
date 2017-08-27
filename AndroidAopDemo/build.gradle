@@ -1,0 +1,47 @@
+import com.android.build.gradle.AppPlugin;
+apply plugin: 'com.android.application'
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile 'org.aspectj:aspectjrt:1.8.1'  //for aspectj compile usage
+}
+
+android {
+    compileSdkVersion = 15
+    buildToolsVersion = "22.0.1"
+
+    sourceSets{
+        main{
+            manifest.srcFile 'AndroidManifest.xml'
+            java.srcDirs=['src']
+            res.srcDirs=['res']
+        }
+    }
+
+   lintOptions {
+          checkReleaseBuilds false
+          // Or, if you prefer, you can continue to check for errors in release builds,
+          // but continue the build even when errors are found:
+          abortOnError false
+      }
+
+
+}
+clean.dependsOn 'cposCleanTask'
+
+task cposCleanTask() <<{ cleanOutput(false) }
+
+tasks.getByName("assemble"){
+    it.doLast{ copyOutput(false,['debug']) }
+}
+
+
+android.applicationVariants.all { variant ->
+    AppPlugin plugin = project.plugins.getPlugin(AppPlugin)
+    JavaCompile javaCompile = variant.javaCompile
+    javaCompile.doLast{
+        String bootclasspath = plugin.project.android.bootClasspath.join(File.pathSeparator)
+        println bootclasspath
+//        ajc(bootclasspath,javaCompile)
+    }
+}

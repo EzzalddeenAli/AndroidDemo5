@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/LoadingAnim/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/ic_launcher.png",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/LoadingAnim/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/LoadingAnim/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/p2.png",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/LoadingAnim/src/main/res/mipmap-xhdpi/p2.png"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/LoadingAnim/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/p6.png",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/LoadingAnim/src/main/res/mipmap-xhdpi/p6.png"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/LoadingAnim/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/p1.png",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/LoadingAnim/src/main/res/mipmap-xhdpi/p1.png"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/LoadingAnim/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/p4.png",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/LoadingAnim/src/main/res/mipmap-xhdpi/p4.png"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/LoadingAnim/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/p7.png",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/LoadingAnim/src/main/res/mipmap-xhdpi/p7.png"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/LoadingAnim/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/p3.png",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/LoadingAnim/src/main/res/mipmap-xhdpi/p3.png"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/LoadingAnim/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/p8.png",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/LoadingAnim/src/main/res/mipmap-xhdpi/p8.png"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/LoadingAnim/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/p5.png",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/LoadingAnim/src/main/res/mipmap-xhdpi/p5.png"
+    }
+]

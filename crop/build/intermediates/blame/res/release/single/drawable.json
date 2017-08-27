@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/crop/build/intermediates/res/merged/release/drawable/crop__texture.xml",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/crop/src/main/res/drawable/crop__texture.xml"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/crop/build/intermediates/res/merged/release/drawable/crop__selectable_background.xml",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/crop/src/main/res/drawable/crop__selectable_background.xml"
+    }
+]

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="19"
+    density="xxxhdpi"
+    format="7"
+    timestamp="286027084247" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="185" />
+    <task
+        name="verifier"
+        duration="16" />
+
+    <artifact
+        location="/DEVELOP/AS_WORKSPACE/MyApplication/TranstionAnim/build/outputs/apk/TranstionAnim-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="37327497616498" >
+        <artifact
+            location="/DEVELOP/AS_WORKSPACE/MyApplication/Application/build/outputs/apk/Application-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

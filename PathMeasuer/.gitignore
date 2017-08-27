@@ -1,0 +1,13 @@
+*.classpath
+*.project
+*.txt
+*.swp
+.DS_Store
+.idea/
+.gradle/
+build/
+app/build/
+*.iml
+app/app.iml
+local.properties
+app/flavors.gradle

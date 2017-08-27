@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/Application/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/Application/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/TranstionAnim/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/TranstionAnim/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    }
+]

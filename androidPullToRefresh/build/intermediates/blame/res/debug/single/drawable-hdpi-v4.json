@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/androidPullToRefresh/build/intermediates/res/merged/debug/drawable-hdpi-v4/indicator_arrow.png",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/androidPullToRefresh/src/main/res/drawable-hdpi/indicator_arrow.png"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/androidPullToRefresh/build/intermediates/res/merged/debug/drawable-hdpi-v4/default_ptr_flip.png",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/androidPullToRefresh/src/main/res/drawable-hdpi/default_ptr_flip.png"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/androidPullToRefresh/build/intermediates/res/merged/debug/drawable-hdpi-v4/default_ptr_rotate.png",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/androidPullToRefresh/src/main/res/drawable-hdpi/default_ptr_rotate.png"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/androidPullToRefresh/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/androidPullToRefresh/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]

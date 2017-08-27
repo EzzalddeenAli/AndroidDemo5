@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="23"
+    density="420dpi"
+    format="7"
+    timestamp="13730189948792"
+    token="6472602198949401932" >
+
+    <task
+        name="javac"
+        duration="197" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="62" />
+    <task
+        name="verifier"
+        duration="13" />
+
+    <artifact
+        location="/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/build/outputs/apk/MaterialEverywhere-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="13730189948792" >
+        <artifact
+            location="/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/build/outputs/apk/MaterialEverywhere-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

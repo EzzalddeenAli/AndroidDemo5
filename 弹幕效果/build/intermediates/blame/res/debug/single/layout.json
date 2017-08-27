@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/Sample/build/intermediates/res/merged/debug/layout/media_controller.xml",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/Sample/src/main/res/layout/media_controller.xml"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/弹幕效果/build/intermediates/res/merged/debug/layout/media_controller.xml",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/弹幕效果/src/main/res/layout/media_controller.xml"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/Sample/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/Sample/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/弹幕效果/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/弹幕效果/src/main/res/layout/activity_main.xml"
+    }
+]

@@ -1,0 +1,19 @@
+apply plugin: 'com.android.library'
+apply plugin: 'checkstyle'
+
+android {
+  compileSdkVersion 22
+  buildToolsVersion "22.0.1"
+
+  defaultConfig {
+    minSdkVersion 11
+    targetSdkVersion 22
+  }
+}
+
+dependencies {
+  //  compile libSupport
+  compile 'com.android.support:support-v4:23.3.0'
+}
+
+//apply from: '../maven_push.gradle'

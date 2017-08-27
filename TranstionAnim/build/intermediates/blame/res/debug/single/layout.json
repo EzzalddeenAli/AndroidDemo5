@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/Application/build/intermediates/res/merged/debug/layout/fragment_custom_transition.xml",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/Application/src/main/res/layout/fragment_custom_transition.xml"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/Application/build/intermediates/res/merged/debug/layout/scene1.xml",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/Application/src/main/res/layout/scene1.xml"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/TranstionAnim/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/TranstionAnim/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/TranstionAnim/build/intermediates/res/merged/debug/layout/scene3.xml",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/TranstionAnim/src/main/res/layout/scene3.xml"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/Application/build/intermediates/res/merged/debug/layout/scene3.xml",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/Application/src/main/res/layout/scene3.xml"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/TranstionAnim/build/intermediates/res/merged/debug/layout/scene2.xml",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/TranstionAnim/src/main/res/layout/scene2.xml"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/TranstionAnim/build/intermediates/res/merged/debug/layout/fragment_custom_transition.xml",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/TranstionAnim/src/main/res/layout/fragment_custom_transition.xml"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/Application/build/intermediates/res/merged/debug/layout/scene2.xml",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/Application/src/main/res/layout/scene2.xml"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/TranstionAnim/build/intermediates/res/merged/debug/layout/scene1.xml",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/TranstionAnim/src/main/res/layout/scene1.xml"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/Application/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/Application/src/main/res/layout/activity_main.xml"
+    }
+]

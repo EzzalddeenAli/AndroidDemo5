@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.lzl.a40demo.MainActivity"
+    android:orientation="vertical"
+    android:background="#FFF68F"
+   >
+ <LinearLayout
+     android:orientation="vertical"
+     android:layout_margin="30px"
+     android:background="#7B68EE"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     >
+    <TextView
+        android:onClick="startAnimation"
+        android:translationZ="20px"
+        android:translationX="20px"
+        android:layout_margin="20px"
+        android:id="@+id/test_01"
+        android:background="#FF83FA"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hello World!" />
+    <TextView
+        android:id="@+id/test_02"
+        android:background="#7EC0EE"
+        android:layout_marginLeft="50px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hello World!" />
+    <TextView
+        android:id="@+id/test_03"
+        android:background="#7FFF00"
+        android:layout_marginLeft="50px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hello World!" />
+     <TextView
+         android:padding="10dp"
+         android:layout_marginTop="10dp"
+         android:id="@+id/test_05"
+         android:background="#7FFF00"
+         android:layout_marginLeft="50px"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:text="Hello World!" />
+     <LinearLayout
+         android:visibility="gone"
+         android:layout_marginTop="20dp"
+         android:background="#76EEC6"
+         android:id="@+id/test_ll"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:orientation="vertical">
+         <ImageView
+             android:id="@+id/iv_01"
+
+             android:visibility="visible"
+             android:layout_width="match_parent"
+             android:layout_height="30dp"
+             android:src="@mipmap/ic_launcher"/>
+         <TextView
+             android:visibility="gone"
+             android:id="@+id/test_04"
+             android:layout_marginLeft="50px"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:text="layout" />
+     </LinearLayout>
+ </LinearLayout>
+    <Button
+        android:onClick="onTest"
+        android:background="#FF83FA"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content" />
+  <ImageView
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:src="@drawable/ic_launcher"/>
+
+</LinearLayout>

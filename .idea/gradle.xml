@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/4.0Demo" />
+            <option value="$PROJECT_DIR$/5.0demo" />
+            <option value="$PROJECT_DIR$/AndroidAopDemo" />
+            <option value="$PROJECT_DIR$/AppBarLayout(向上滚动隐藏指定的View)" />
+            <option value="$PROJECT_DIR$/AppLayout" />
+            <option value="$PROJECT_DIR$/BaseActivity" />
+            <option value="$PROJECT_DIR$/Canvas" />
+            <option value="$PROJECT_DIR$/CollapsingToolbarLayout" />
+            <option value="$PROJECT_DIR$/CustomNotification" />
+            <option value="$PROJECT_DIR$/Depath" />
+            <option value="$PROJECT_DIR$/DesignSupoort" />
+            <option value="$PROJECT_DIR$/DexPosed" />
+            <option value="$PROJECT_DIR$/DialogFragment" />
+            <option value="$PROJECT_DIR$/DisplayBitmaps" />
+            <option value="$PROJECT_DIR$/FloatingActionbar" />
+            <option value="$PROJECT_DIR$/FragmentAniamtion" />
+            <option value="$PROJECT_DIR$/HTTPS" />
+            <option value="$PROJECT_DIR$/HomeMirror" />
+            <option value="$PROJECT_DIR$/IOdemo" />
+            <option value="$PROJECT_DIR$/ImageHeader" />
+            <option value="$PROJECT_DIR$/JKeyboard" />
+            <option value="$PROJECT_DIR$/JkeyBoardLib" />
+            <option value="$PROJECT_DIR$/LargeHeap" />
+            <option value="$PROJECT_DIR$/Loading" />
+            <option value="$PROJECT_DIR$/LoadingAnim" />
+            <option value="$PROJECT_DIR$/LoadingAnimation" />
+            <option value="$PROJECT_DIR$/LoadingAnimation1" />
+            <option value="$PROJECT_DIR$/LoadingLibrary" />
+            <option value="$PROJECT_DIR$/LoadingText" />
+            <option value="$PROJECT_DIR$/LoadingTextLibrary" />
+            <option value="$PROJECT_DIR$/LoadingView" />
+            <option value="$PROJECT_DIR$/MDDemo" />
+            <option value="$PROJECT_DIR$/MVVM" />
+            <option value="$PROJECT_DIR$/MVVMlibrary" />
+            <option value="$PROJECT_DIR$/MaterialAnimation" />
+            <option value="$PROJECT_DIR$/MaterialDemo" />
+            <option value="$PROJECT_DIR$/MaterialEverywhere" />
+            <option value="$PROJECT_DIR$/MaterialRefresh" />
+            <option value="$PROJECT_DIR$/MaterialRefreshLib" />
+            <option value="$PROJECT_DIR$/Mdanimation" />
+            <option value="$PROJECT_DIR$/MediaPlay" />
+            <option value="$PROJECT_DIR$/MyApp" />
+            <option value="$PROJECT_DIR$/OkHttp1" />
+            <option value="$PROJECT_DIR$/OkHttpD" />
+            <option value="$PROJECT_DIR$/OkhttpsNew封装" />
+            <option value="$PROJECT_DIR$/PathMeasuer" />
+            <option value="$PROJECT_DIR$/PathviewLib" />
+            <option value="$PROJECT_DIR$/RecyclerView" />
+            <option value="$PROJECT_DIR$/RecyclerView1" />
+            <option value="$PROJECT_DIR$/RecyclerViewLib" />
+            <option value="$PROJECT_DIR$/RxJava" />
+            <option value="$PROJECT_DIR$/SVG" />
+            <option value="$PROJECT_DIR$/SVGlibrary" />
+            <option value="$PROJECT_DIR$/SVGsampleapp" />
+            <option value="$PROJECT_DIR$/SearchDemo" />
+            <option value="$PROJECT_DIR$/SearchLib" />
+            <option value="$PROJECT_DIR$/SideMenu" />
+            <option value="$PROJECT_DIR$/SideMenuLibrary" />
+            <option value="$PROJECT_DIR$/Statusbar" />
+            <option value="$PROJECT_DIR$/SupportLibDemo" />
+            <option value="$PROJECT_DIR$/SwitchButton" />
+            <option value="$PROJECT_DIR$/Testdraw" />
+            <option value="$PROJECT_DIR$/Testinputfilter" />
+            <option value="$PROJECT_DIR$/Testlayout" />
+            <option value="$PROJECT_DIR$/Testpath" />
+            <option value="$PROJECT_DIR$/Timeline" />
+            <option value="$PROJECT_DIR$/TranstionAnim" />
+            <option value="$PROJECT_DIR$/ViewPagerAnimate" />
+            <option value="$PROJECT_DIR$/ViewPagerAnimateLib" />
+            <option value="$PROJECT_DIR$/WebViewSafe" />
+            <option value="$PROJECT_DIR$/WebViewSafeLib" />
+            <option value="$PROJECT_DIR$/android-pathview" />
+            <option value="$PROJECT_DIR$/androidPullToRefresh" />
+            <option value="$PROJECT_DIR$/androidsupportv7cardview" />
+            <option value="$PROJECT_DIR$/api" />
+            <option value="$PROJECT_DIR$/baselibrary" />
+            <option value="$PROJECT_DIR$/catloadinglibrary" />
+            <option value="$PROJECT_DIR$/circualreveal动画lib" />
+            <option value="$PROJECT_DIR$/core" />
+            <option value="$PROJECT_DIR$/crop" />
+            <option value="$PROJECT_DIR$/fragmentanimations" />
+            <option value="$PROJECT_DIR$/getwidth" />
+            <option value="$PROJECT_DIR$/lib" />
+            <option value="$PROJECT_DIR$/libraryO" />
+            <option value="$PROJECT_DIR$/libraryd" />
+            <option value="$PROJECT_DIR$/model" />
+            <option value="$PROJECT_DIR$/okhttp" />
+            <option value="$PROJECT_DIR$/okhttputils" />
+            <option value="$PROJECT_DIR$/okhttp封装" />
+            <option value="$PROJECT_DIR$/popupwindowedittext" />
+            <option value="$PROJECT_DIR$/popview" />
+            <option value="$PROJECT_DIR$/recyclerview学习" />
+            <option value="$PROJECT_DIR$/rollviewpager" />
+            <option value="$PROJECT_DIR$/rxandroid" />
+            <option value="$PROJECT_DIR$/swipebackhelper" />
+            <option value="$PROJECT_DIR$/侧滑删除" />
+            <option value="$PROJECT_DIR$/侧滑删除library" />
+            <option value="$PROJECT_DIR$/城市选择器" />
+            <option value="$PROJECT_DIR$/多语言" />
+            <option value="$PROJECT_DIR$/广告轮播" />
+            <option value="$PROJECT_DIR$/开关按钮" />
+            <option value="$PROJECT_DIR$/开关按钮library" />
+            <option value="$PROJECT_DIR$/弹幕效果" />
+            <option value="$PROJECT_DIR$/弹幕效果Lib" />
+            <option value="$PROJECT_DIR$/拖拽编辑图片" />
+            <option value="$PROJECT_DIR$/架构设计" />
+            <option value="$PROJECT_DIR$/毛玻璃" />
+            <option value="$PROJECT_DIR$/毛玻璃library" />
+            <option value="$PROJECT_DIR$/沉浸式状态栏" />
+            <option value="$PROJECT_DIR$/沉浸式状态栏1" />
+            <option value="$PROJECT_DIR$/沉浸式状态栏2" />
+            <option value="$PROJECT_DIR$/沉浸式状态栏demo" />
+            <option value="$PROJECT_DIR$/波浪形SideBar" />
+            <option value="$PROJECT_DIR$/滑动切换activity" />
+            <option value="$PROJECT_DIR$/爆炸效果" />
+            <option value="$PROJECT_DIR$/软键盘切换冲突" />
+            <option value="$PROJECT_DIR$/软键盘切换冲突lib" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

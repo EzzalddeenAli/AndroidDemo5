@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/DisplayBitmaps/build/intermediates/res/merged/debug/drawable-hdpi-v4/tile.9.png",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/DisplayBitmaps/src/main/res/drawable-hdpi/tile.9.png"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/DisplayBitmaps/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/DisplayBitmaps/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]

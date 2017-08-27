@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/build/intermediates/res/merged/debug/layout/activity_home.xml",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/build/intermediates/res/merged/debug/layout/toolbar.xml",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/src/main/res/layout/toolbar.xml"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/build/intermediates/res/merged/debug/layout/abc_simple_dropdown_hint.xml",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/build/intermediates/res/merged/debug/layout/grid_item.xml",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/src/main/res/layout/grid_item.xml"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/build/intermediates/res/merged/debug/layout/activity_detail.xml",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/src/main/res/layout/activity_detail.xml"
+    }
+]

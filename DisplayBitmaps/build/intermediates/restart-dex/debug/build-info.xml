@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="420dpi"
+    format="7"
+    timestamp="41071844529722" >
+
+    <task
+        name="javac"
+        duration="213" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="127" />
+    <task
+        name="verifier"
+        duration="27" />
+
+    <artifact
+        location="/DEVELOP/AS_WORKSPACE/MyApplication/DisplayBitmaps/build/outputs/apk/DisplayBitmaps-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="41071844529722" >
+        <artifact
+            location="/DEVELOP/AS_WORKSPACE/MyApplication/DisplayBitmaps/build/outputs/apk/DisplayBitmaps-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

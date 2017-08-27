@@ -1,0 +1,74 @@
+[
+    {
+        "outputFile": "/DEVELOP/AS_WORKSPACE/MyApplication/TranstionAnim/build/intermediates/res/merged/debug/values-v11/values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 64,
+                    "endOffset": 115
+                },
+                "from": {
+                    "file": "/DEVELOP/AS_WORKSPACE/MyApplication/TranstionAnim/src/main/res/values-v11/template-styles.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 650,
+                        "endColumn": 65,
+                        "endOffset": 711
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/DEVELOP/AS_WORKSPACE/MyApplication/TranstionAnim/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 64,
+                    "endOffset": 115
+                },
+                "from": {
+                    "file": "/DEVELOP/AS_WORKSPACE/MyApplication/TranstionAnim/src/main/res/values-v11/template-styles.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 650,
+                        "endColumn": 65,
+                        "endOffset": 711
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/DEVELOP/AS_WORKSPACE/MyApplication/Application/build/intermediates/res/merged/debug/values-v11/values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 64,
+                    "endOffset": 115
+                },
+                "from": {
+                    "file": "/DEVELOP/AS_WORKSPACE/MyApplication/Application/src/main/res/values-v11/template-styles.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 650,
+                        "endColumn": 65,
+                        "endOffset": 711
+                    }
+                }
+            }
+        ]
+    }
+]

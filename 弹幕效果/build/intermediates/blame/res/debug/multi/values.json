@@ -1,0 +1,953 @@
+[
+    {
+        "outputFile": "/DEVELOP/AS_WORKSPACE/MyApplication/弹幕效果/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 56,
+                    "endOffset": 107
+                },
+                "from": {
+                    "file": "/DEVELOP/AS_WORKSPACE/MyApplication/弹幕效果/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 88,
+                        "endColumn": 56,
+                        "endOffset": 140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 112,
+                    "endColumn": 54,
+                    "endOffset": 162
+                },
+                "from": {
+                    "file": "/DEVELOP/AS_WORKSPACE/MyApplication/弹幕效果/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 145,
+                        "endColumn": 54,
+                        "endOffset": 195
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 167,
+                    "endLine": 5,
+                    "endColumn": 13,
+                    "endOffset": 220
+                },
+                "from": {
+                    "file": "/DEVELOP/AS_WORKSPACE/MyApplication/弹幕效果/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 124,
+                        "endLine": 6,
+                        "endColumn": 13,
+                        "endOffset": 178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 225,
+                    "endLine": 7,
+                    "endColumn": 13,
+                    "endOffset": 283
+                },
+                "from": {
+                    "file": "/DEVELOP/AS_WORKSPACE/MyApplication/弹幕效果/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endLine": 4,
+                        "endColumn": 13,
+                        "endOffset": 118
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 288,
+                    "endColumn": 56,
+                    "endOffset": 340
+                },
+                "from": {
+                    "file": "/DEVELOP/AS_WORKSPACE/MyApplication/弹幕效果/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 546,
+                        "endColumn": 56,
+                        "endOffset": 598
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 345,
+                    "endColumn": 45,
+                    "endOffset": 386
+                },
+                "from": {
+                    "file": "/DEVELOP/AS_WORKSPACE/MyApplication/弹幕效果/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 190,
+                        "endColumn": 45,
+                        "endOffset": 231
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 391,
+                    "endColumn": 47,
+                    "endOffset": 434
+                },
+                "from": {
+                    "file": "/DEVELOP/AS_WORKSPACE/MyApplication/弹幕效果/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 284,
+                        "endColumn": 47,
+                        "endOffset": 327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 439,
+                    "endColumn": 43,
+                    "endOffset": 478
+                },
+                "from": {
+                    "file": "/DEVELOP/AS_WORKSPACE/MyApplication/弹幕效果/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 606,
+                        "endColumn": 43,
+                        "endOffset": 645
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 483,
+                    "endColumn": 49,
+                    "endOffset": 528
+                },
+                "from": {
+                    "file": "/DEVELOP/AS_WORKSPACE/MyApplication/弹幕效果/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 333,
+                        "endColumn": 49,
+                        "endOffset": 378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 533,
+                    "endColumn": 39,
+                    "endOffset": 568
+                },
+                "from": {
+                    "file": "/DEVELOP/AS_WORKSPACE/MyApplication/弹幕效果/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 651,
+                        "endColumn": 39,
+                        "endOffset": 686
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 573,
+                    "endColumn": 50,
+                    "endOffset": 619
+                },
+                "from": {
+                    "file": "/DEVELOP/AS_WORKSPACE/MyApplication/弹幕效果/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 384,
+                        "endColumn": 50,
+                        "endOffset": 430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 624,
+                    "endColumn": 60,
+                    "endOffset": 680
+                },
+                "from": {
+                    "file": "/DEVELOP/AS_WORKSPACE/MyApplication/弹幕效果/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 436,
+                        "endColumn": 60,
+                        "endOffset": 492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 685,
+                    "endColumn": 46,
+                    "endOffset": 727
+                },
+                "from": {
+                    "file": "/DEVELOP/AS_WORKSPACE/MyApplication/弹幕效果/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 498,
+                        "endColumn": 46,
+                        "endOffset": 540
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 732,
+                    "endColumn": 45,
+                    "endOffset": 773
+                },
+                "from": {
+                    "file": "/DEVELOP/AS_WORKSPACE/MyApplication/弹幕效果/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 237,
+                        "endColumn": 45,
+                        "endOffset": 278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 778,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1064
+                },
+                "from": {
+                    "file": "/DEVELOP/AS_WORKSPACE/MyApplication/弹幕效果/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1069,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 1224
+                },
+                "from": {
+                    "file": "/DEVELOP/AS_WORKSPACE/MyApplication/弹幕效果/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/DEVELOP/AS_WORKSPACE/MyApplication/弹幕效果/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 56,
+                    "endOffset": 107
+                },
+                "from": {
+                    "file": "/DEVELOP/AS_WORKSPACE/MyApplication/弹幕效果/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 88,
+                        "endColumn": 56,
+                        "endOffset": 140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 112,
+                    "endColumn": 54,
+                    "endOffset": 162
+                },
+                "from": {
+                    "file": "/DEVELOP/AS_WORKSPACE/MyApplication/弹幕效果/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 145,
+                        "endColumn": 54,
+                        "endOffset": 195
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 167,
+                    "endLine": 5,
+                    "endColumn": 13,
+                    "endOffset": 220
+                },
+                "from": {
+                    "file": "/DEVELOP/AS_WORKSPACE/MyApplication/弹幕效果/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 124,
+                        "endLine": 6,
+                        "endColumn": 13,
+                        "endOffset": 178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 225,
+                    "endLine": 7,
+                    "endColumn": 13,
+                    "endOffset": 283
+                },
+                "from": {
+                    "file": "/DEVELOP/AS_WORKSPACE/MyApplication/弹幕效果/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endLine": 4,
+                        "endColumn": 13,
+                        "endOffset": 118
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 288,
+                    "endColumn": 56,
+                    "endOffset": 340
+                },
+                "from": {
+                    "file": "/DEVELOP/AS_WORKSPACE/MyApplication/弹幕效果/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 546,
+                        "endColumn": 56,
+                        "endOffset": 598
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 345,
+                    "endColumn": 45,
+                    "endOffset": 386
+                },
+                "from": {
+                    "file": "/DEVELOP/AS_WORKSPACE/MyApplication/弹幕效果/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 190,
+                        "endColumn": 45,
+                        "endOffset": 231
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 391,
+                    "endColumn": 47,
+                    "endOffset": 434
+                },
+                "from": {
+                    "file": "/DEVELOP/AS_WORKSPACE/MyApplication/弹幕效果/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 284,
+                        "endColumn": 47,
+                        "endOffset": 327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 439,
+                    "endColumn": 43,
+                    "endOffset": 478
+                },
+                "from": {
+                    "file": "/DEVELOP/AS_WORKSPACE/MyApplication/弹幕效果/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 606,
+                        "endColumn": 43,
+                        "endOffset": 645
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 483,
+                    "endColumn": 49,
+                    "endOffset": 528
+                },
+                "from": {
+                    "file": "/DEVELOP/AS_WORKSPACE/MyApplication/弹幕效果/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 333,
+                        "endColumn": 49,
+                        "endOffset": 378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 533,
+                    "endColumn": 39,
+                    "endOffset": 568
+                },
+                "from": {
+                    "file": "/DEVELOP/AS_WORKSPACE/MyApplication/弹幕效果/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 651,
+                        "endColumn": 39,
+                        "endOffset": 686
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 573,
+                    "endColumn": 50,
+                    "endOffset": 619
+                },
+                "from": {
+                    "file": "/DEVELOP/AS_WORKSPACE/MyApplication/弹幕效果/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 384,
+                        "endColumn": 50,
+                        "endOffset": 430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 624,
+                    "endColumn": 60,
+                    "endOffset": 680
+                },
+                "from": {
+                    "file": "/DEVELOP/AS_WORKSPACE/MyApplication/弹幕效果/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 436,
+                        "endColumn": 60,
+                        "endOffset": 492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 685,
+                    "endColumn": 46,
+                    "endOffset": 727
+                },
+                "from": {
+                    "file": "/DEVELOP/AS_WORKSPACE/MyApplication/弹幕效果/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 498,
+                        "endColumn": 46,
+                        "endOffset": 540
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 732,
+                    "endColumn": 45,
+                    "endOffset": 773
+                },
+                "from": {
+                    "file": "/DEVELOP/AS_WORKSPACE/MyApplication/弹幕效果/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 237,
+                        "endColumn": 45,
+                        "endOffset": 278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 778,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1064
+                },
+                "from": {
+                    "file": "/DEVELOP/AS_WORKSPACE/MyApplication/弹幕效果/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1069,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 1224
+                },
+                "from": {
+                    "file": "/DEVELOP/AS_WORKSPACE/MyApplication/弹幕效果/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/DEVELOP/AS_WORKSPACE/MyApplication/Sample/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 56,
+                    "endOffset": 107
+                },
+                "from": {
+                    "file": "/DEVELOP/AS_WORKSPACE/MyApplication/Sample/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 88,
+                        "endColumn": 56,
+                        "endOffset": 140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 112,
+                    "endColumn": 54,
+                    "endOffset": 162
+                },
+                "from": {
+                    "file": "/DEVELOP/AS_WORKSPACE/MyApplication/Sample/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 145,
+                        "endColumn": 54,
+                        "endOffset": 195
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 167,
+                    "endLine": 5,
+                    "endColumn": 13,
+                    "endOffset": 220
+                },
+                "from": {
+                    "file": "/DEVELOP/AS_WORKSPACE/MyApplication/Sample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 124,
+                        "endLine": 6,
+                        "endColumn": 13,
+                        "endOffset": 178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 225,
+                    "endLine": 7,
+                    "endColumn": 13,
+                    "endOffset": 283
+                },
+                "from": {
+                    "file": "/DEVELOP/AS_WORKSPACE/MyApplication/Sample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endLine": 4,
+                        "endColumn": 13,
+                        "endOffset": 118
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 288,
+                    "endColumn": 56,
+                    "endOffset": 340
+                },
+                "from": {
+                    "file": "/DEVELOP/AS_WORKSPACE/MyApplication/Sample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 546,
+                        "endColumn": 56,
+                        "endOffset": 598
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 345,
+                    "endColumn": 45,
+                    "endOffset": 386
+                },
+                "from": {
+                    "file": "/DEVELOP/AS_WORKSPACE/MyApplication/Sample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 190,
+                        "endColumn": 45,
+                        "endOffset": 231
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 391,
+                    "endColumn": 47,
+                    "endOffset": 434
+                },
+                "from": {
+                    "file": "/DEVELOP/AS_WORKSPACE/MyApplication/Sample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 284,
+                        "endColumn": 47,
+                        "endOffset": 327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 439,
+                    "endColumn": 43,
+                    "endOffset": 478
+                },
+                "from": {
+                    "file": "/DEVELOP/AS_WORKSPACE/MyApplication/Sample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 606,
+                        "endColumn": 43,
+                        "endOffset": 645
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 483,
+                    "endColumn": 49,
+                    "endOffset": 528
+                },
+                "from": {
+                    "file": "/DEVELOP/AS_WORKSPACE/MyApplication/Sample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 333,
+                        "endColumn": 49,
+                        "endOffset": 378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 533,
+                    "endColumn": 39,
+                    "endOffset": 568
+                },
+                "from": {
+                    "file": "/DEVELOP/AS_WORKSPACE/MyApplication/Sample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 651,
+                        "endColumn": 39,
+                        "endOffset": 686
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 573,
+                    "endColumn": 50,
+                    "endOffset": 619
+                },
+                "from": {
+                    "file": "/DEVELOP/AS_WORKSPACE/MyApplication/Sample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 384,
+                        "endColumn": 50,
+                        "endOffset": 430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 624,
+                    "endColumn": 60,
+                    "endOffset": 680
+                },
+                "from": {
+                    "file": "/DEVELOP/AS_WORKSPACE/MyApplication/Sample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 436,
+                        "endColumn": 60,
+                        "endOffset": 492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 685,
+                    "endColumn": 46,
+                    "endOffset": 727
+                },
+                "from": {
+                    "file": "/DEVELOP/AS_WORKSPACE/MyApplication/Sample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 498,
+                        "endColumn": 46,
+                        "endOffset": 540
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 732,
+                    "endColumn": 45,
+                    "endOffset": 773
+                },
+                "from": {
+                    "file": "/DEVELOP/AS_WORKSPACE/MyApplication/Sample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 237,
+                        "endColumn": 45,
+                        "endOffset": 278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 778,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1064
+                },
+                "from": {
+                    "file": "/DEVELOP/AS_WORKSPACE/MyApplication/Sample/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1069,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 1224
+                },
+                "from": {
+                    "file": "/DEVELOP/AS_WORKSPACE/MyApplication/Sample/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]

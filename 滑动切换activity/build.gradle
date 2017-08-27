@@ -1,0 +1,33 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.1"
+
+    defaultConfig {
+        applicationId "com.jude.demo"
+        minSdkVersion 15
+        targetSdkVersion 23
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile 'com.android.support:appcompat-v7:23.0.1'
+    compile 'com.facebook.fresco:fresco:0.8.1'
+    compile 'com.jude:easyrecyclerview:3.5.0'
+    compile 'com.jude:rollviewpager:1.2.9'
+    compile 'com.jude:utils:1.1.1'
+    compile 'com.readystatesoftware.systembartint:systembartint:1.0.3'
+    compile project(':swipebackhelper')
+    //compile 'com.github.romainguy:ViewServer:master'
+}
+

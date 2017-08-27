@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/弹幕效果/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/弹幕效果/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/Sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/Sample/src/main/res/drawable-xhdpi/ic_launcher.png"
+    }
+]

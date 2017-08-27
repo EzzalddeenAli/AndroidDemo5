@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_ab_drawer.png",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/src/main/res/drawable-xxhdpi/ic_ab_drawer.png"
+    },
+    {
+        "merged": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/build/intermediates/res/merged/debug/drawable-xxhdpi/drawer_shadow.9.png",
+        "source": "/DEVELOP/AS_WORKSPACE/MyApplication/MaterialEverywhere/src/main/res/drawable-xxhdpi/drawer_shadow.9.png"
+    }
+]

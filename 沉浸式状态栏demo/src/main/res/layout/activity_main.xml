@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/env_bg"
+
+
+    tools:context="fingertip.creditease.com.demo.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <!--标题布局-->
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:background="@color/color_31c27c">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="QQ Music"
+                android:textColor="@android:color/white"
+                android:textSize="20sp" />
+
+        </RelativeLayout>
+
+
+        <!--内容布局-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="500dp"
+            android:background="@android:color/white"
+            android:orientation="vertical">
+
+            <Button
+                android:onClick="onClear"
+                android:id="@+id/btn_show_toast"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Show a toast" />
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="500dp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="500dp"
+            android:background="@color/color_red"
+            android:orientation="vertical">
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Show a toast" />
+
+            <FrameLayout
+                android:id="@+id/fragment_container"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

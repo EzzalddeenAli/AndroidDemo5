@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="19"
+    density="xxxhdpi"
+    format="7"
+    timestamp="84951005257716" >
+
+    <task
+        name="javac"
+        duration="180" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="99" />
+    <task
+        name="verifier"
+        duration="17" />
+
+    <artifact
+        location="/DEVELOP/AS_WORKSPACE/MyApplication/LoadingAnim/build/outputs/apk/LoadingAnim-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="84951005257716" >
+        <artifact
+            location="/DEVELOP/AS_WORKSPACE/MyApplication/LoadingAnim/build/outputs/apk/LoadingAnim-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
